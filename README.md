@@ -17,11 +17,12 @@ https://1drv.ms/f/s!AhpCTMCuij4fmzkZrrlJnQ0NqwP4?e=JiLxtt
 
 
 ## Quickstart
-
-The notebook predict.ipynb will take a truncated movie file (of drone.mov) from test_data folder and generate two things:
+The task to classify and count are merged into single file, classify_count_movie.ipynb.
+The notebook will take a truncated movie file (of drone.mov) from test_data folder and generate two things:
 
 - A movie called result.avi contained bounding round and the count of trees for each frame.
 - A csv consisting of the counted trees is stored in count_history.csv is generated.
+
 
 
 ## The Model
