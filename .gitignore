@@ -1,0 +1,9 @@
+
+.ipynb_checkpoints/**
+test_data/**
+*.pt
+*.mov
+*.csv
+*.avi
+
+
